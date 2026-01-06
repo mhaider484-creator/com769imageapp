@@ -13,9 +13,7 @@ return [
 
     'allowed_origins' => [
         'http://localhost',
-        'http://127.0.0.1:8003',
-        'https://photoappfrontend.z36.web.core.windows.net',
-        'https://photosharefrontend.z38.web.core.windows.net'
+        'https://photoapp1.z1.web.core.windows.net/'
     ],
 
     'allowed_headers' => ['*'],
